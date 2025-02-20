@@ -2,8 +2,6 @@
 ## Introduction
 This project is an example using the CrewAI framework to automate the process of analyzing a stock. CrewAI orchestrates autonomous AI agents, enabling them to collaborate and execute complex tasks efficiently.
 
-By [@joaomdmoura](https://x.com/joaomdmoura)
-
 - [CrewAI Framework](#crewai-framework)
 - [Running the script](#running-the-script)
 - [Details & Explanation](#details--explanation)
