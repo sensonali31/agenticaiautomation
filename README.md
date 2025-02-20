@@ -20,3 +20,6 @@ There are several AI frameworks for building agents, but CrewAI stands out for a
 
 You can find the link to the official CrewAI documentation below if you need additional details.
 https://docs.crewai.com/introduction
+
+# The codes are adapted from CrewAI, an open-source framework.
+# CrewAI is licensed under [LICENSE_TYPE]
